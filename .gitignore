@@ -1,0 +1,25 @@
+node_modules
+cache
+dist
+temp
+
+# ! this will be removed after formal release
+# lock file
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# ide
+.idea
+.vscode
+.DS_Store
+.history
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# custom
+.cspell.json
