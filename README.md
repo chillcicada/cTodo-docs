@@ -27,3 +27,7 @@ pnpm preview
 ```
 
 More scripts can be found in the `package.json` file.
+
+## LICENSE
+
+The cTodo docs is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) License.
