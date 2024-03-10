@@ -11,7 +11,9 @@ package-lock.json
 
 # ide
 .idea
-.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/extesnions.json
 .DS_Store
 .history
 

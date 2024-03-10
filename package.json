@@ -13,8 +13,11 @@
     "npm": "pnpm"
   },
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
+    "dev:docs": "vitepress dev docs",
+    "dev:slides": "slidev",
+    "build": "pnpm run build:docs && pnpm run build:slides",
+    "build:docs": "vitepress build docs",
+    "build:slides": "node docs/.vitepress/slides.cjs",
     "preview": "vitepress preview docs",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
@@ -22,6 +25,8 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.8.0",
+    "@slidev/cli": "0.48.0-beta.26",
+    "@slidev/theme-default": "^0.25.0",
     "eslint": "^8.57.0",
     "eslint-plugin-format": "^0.1.0",
     "lint-staged": "^15.2.2",

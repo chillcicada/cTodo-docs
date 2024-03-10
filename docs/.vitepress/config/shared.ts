@@ -29,4 +29,6 @@ export const shared = defineConfig({
       },
     },
   },
+
+  srcExclude: ['**/slides/**']
 })
