@@ -8,14 +8,14 @@ Please visit the docs at <https://ctodo.chillcicada.com>.
 
 ## Development
 
-The repo require [Node](https://nodejs.org) >= 18 and uses [pnpm](https://pnpm.io) as the package manager. Please ensure that you have node prepared, pnpm installed and enabled.
+The repo requires [Node](https://nodejs.org) >= 18 and uses [pnpm](https://pnpm.io) as the package manager. Please ensure that you have node prepared, pnpm installed and enabled.
 
 > [!TIP]
 > It's recommended to use VScode as the IDE, install and enable the recommended extensions.
 
 Run `corepack enabled` to ensure pnpm is enabled. Then run `pnpm i` to install the dependencies.
 
-if you run the below command crash with `Error: Cannot find module 'pnpm'`, please run `npm i -g pnpm` to install pnpm globally then reboot the ide or terminal.
+if you run the below command with `Error: Cannot find module 'pnpm'`, please run `npm i -g pnpm` to install pnpm globally then reboot the ide or terminal.
 
 For dev server:
 
@@ -23,7 +23,7 @@ For dev server:
 # dev server for docs
 pnpm dev:docs
 
-# dev server for slides, need to specify the file 
+# dev server for slides, need to specify the file prodded to `slidev`
 pnpm dev:slides -- docs/slides/index.md # for example
 ```
 

@@ -3,7 +3,6 @@ cache
 dist
 temp
 
-# ! this will be removed after formal release
 # lock file
 yarn.lock
 package-lock.json

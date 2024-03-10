@@ -59,7 +59,11 @@
     "editor.unicodeHighlight.invisibleCharacters": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.wordWrap": "on",
-    "editor.quickSuggestions": true,
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    },
 
     "cSpell.fixSpellingWithRenameProvider": true,
     "cSpell.advanced.feature.useReferenceProviderWithRename": true,
@@ -68,8 +72,8 @@
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
-      "source.fixAll.markdownlint": true,
-      "source.fixAll.eslint": false
+      "source.fixAll.markdownlint": "explicit",
+      "source.fixAll.eslint": "never"
     }
   }
 }
