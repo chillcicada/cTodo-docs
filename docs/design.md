@@ -2,7 +2,7 @@
 
 ## cTodo (cTodo - client)
 
-The cTodo - client is released under the [MIT](https://mit-license.org) License, you can get the source code from [GitHub](https://github.com/chillcicada/ctodo).
+The cTodo (client) is released under the [MIT](https://mit-license.org) License, you can get the source code from [GitHub](https://github.com/chillcicada/ctodo).
 
 ### Design
 

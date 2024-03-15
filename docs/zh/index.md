@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Introduction
-      link: /introduction
+      link: /zh/introduction
     - theme: alt
       text: Roadmap
-      link: /roadmap
+      link: /zh/roadmap
     - theme: primary
       text: Repository
       link: https://github.com/chillcicada/cTodo

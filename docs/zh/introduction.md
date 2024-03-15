@@ -1,63 +1,65 @@
-# Introduction
+# 简介
 
-> This is a brief introduction to cTodo.
+> 由 GPT-4 翻译。
+>
+> 这是对 cTodo 的简要介绍。
 
-## What is cTodo?
+## 什么是 cTodo？
 
-cTodo is a web extension that helps users manage their tasks and todo.
+cTodo 是一个帮助用户管理任务和待办事项的网络扩展。
 
-## Why cTodo?
+## 为什么选择 cTodo？
 
-There are many other web extension that help users manage their and tasks.
+有许多其他的网络扩展可以帮助用户管理任务和待办事项。
 
-## Usage
+## 用法
 
-## Development
-
-> [!IMPORTANT]
-> For code principles, please refer to the [Principle](./principle) page.
-
-### cTodo (cTodo Client)
-
-Brief
-
-### cTodo Server
+## 开发
 
 > [!IMPORTANT]
-> cTodo Server isn't the necessary part of cTodo, but it's a part of the cTodo project to collect error logs and user feedbacks.
+> 有关代码原则，请参阅 [原则](./principle) 页面。
 
-The cTodo Server uses [Clap](https://github.com/clap-rs/clap) as the cli.
+### cTodo（cTodo 客户端）
 
-### cTodo Docs
+简要介绍
 
-The cTodo Docs uses [VitePress](https://vitepress.dev) as the static site generator.
+### cTodo 服务器
 
-For development, please refer to the [README](https://github.com/chillcicada/cTodo-docs#Usage) file in the root directory.
+> [!IMPORTANT]
+> cTodo 服务器并不是 cTodo 的必要部分，但它是 cTodo 项目的一部分，用于收集错误日志和用户反馈。
 
-## Inspiration
+cTodo 服务器使用 [Clap](https://github.com/clap-rs/clap) 作为命令行接口。
 
-cTodo was inspired by the following projects:
+### cTodo 文档
 
-- [uBlacklist](https://github.com/iorate/uBlacklist): A tool to block sites from search engine's results.
-- [stayFree](https://stayfreeapps.com): A tool to help users manage their time and collect.
-- [tomatodo](http://www.tomatodo.cn): A app to help users manage their tasks and todo.
-- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): A browser script provided a plugin api to help users improve the experience of Bilibili.
+cTodo 文档使用 [VitePress](https://vitepress.dev) 作为静态站点生成器。
 
-## Acknowledgement
+有关开发，请参阅根目录中的 [README](https://github.com/chillcicada/cTodo-docs#Usage) 文件。
 
-Without the help of the following things and people, cTodo would not have been possible:
+## 灵感来源
 
-- [Vue](https://vuejs.org): A progressive framework for building user interfaces.
-- [Wxt](https://wxt.dev): A new web extension framework.
-- [VSCode](https://code.visualstudio.com): A code editor redefined and optimized for building and debugging modern web and cloud applications.
-- [antfu](https://antfu.me): His works help me a lot.
+cTodo 的灵感来源于以下项目：
 
-## License
+- [uBlacklist](https://github.com/iorate/uBlacklist)：一个用于阻止搜索引擎结果中的网站的工具。
+- [stayFree](https://stayfreeapps.com)：一个帮助用户管理时间和收集的工具。
+- [tomatodo](http://www.tomatodo.cn)：一个帮助用户管理任务和待办事项的应用程序。
+- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)：一个浏览器脚本，提供了一个插件 API，帮助用户改善哔哩哔哩的体验。
 
-cTodo and cTodo-server is licensed under the [MIT License](https://mit-license.org).
+## 致谢
 
-cTodo-docs is licensed under the [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0).
+没有以下事物和人员的帮助，cTodo 将不可能存在：
+
+- [Vue](https://vuejs.org)：用于构建用户界面的渐进式框架。
+- [Wxt](https://wxt.dev)：一个新的网络扩展框架。
+- [VSCode](https://code.visualstudio.com)：一个重新定义和优化用于构建和调试现代 Web 和云应用程序的代码编辑器。
+- [antfu](https://antfu.me)：他的作品对我有很大帮助。
+
+## 许可证
+
+cTodo 和 cTodo-server 遵循 [MIT 许可证](https://mit-license.org)。
+
+cTodo-docs 遵循 [CC BY-NC-SA 4.0 许可证](https://creativecommons.org/licenses/by-nc-sa/4.0)。
 
 ---
 
-That's all, thank you for reading.
+就这些了，谢谢您的阅读。

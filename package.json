@@ -21,10 +21,14 @@
     "preview": "vitepress preview docs",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "postinstall": "npx simple-git-hooks"
+    "zhlint": "zhlint",
+    "zhlint:fix": "zhlint --fix",
+    "zhlint:all": "node docs/.vitepress/zhlint.cjs",
+    "postinstall": "npx simple-git-hooks",
+    "preinstall": "npx only-allow pnpm"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.8.1",
+    "@antfu/eslint-config": "^2.8.3",
     "@slidev/cli": "0.48.0-beta.26",
     "@slidev/theme-default": "^0.25.0",
     "eslint": "^8.57.0",
@@ -40,6 +44,7 @@
     "pre-commit": "npx lint-staged"
   },
   "lint-staged": {
-    "*": "eslint --fix"
+    "*": "eslint --fix",
+    "**/zh/*.md": "zhlint --fix"
   }
 }

@@ -1,5 +1,7 @@
 # cTodo Docs
 
+English docs | [中文文档](./.github/README.zh.md)
+
 This is the official documentation for cTodo, a web extension that helps users manage their and tasks.
 
 ## Usage

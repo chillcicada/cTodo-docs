@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "cTodo"
   text: "Ciallo~~"
-  tagline: My great project tagline
+  tagline: A web extension.
   actions:
     - theme: brand
       text: Introduction
