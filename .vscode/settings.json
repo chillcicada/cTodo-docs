@@ -1,6 +1,6 @@
 {
   "files.autoSave": "onFocusChange",
-    // Enable the ESlint flat config support
+  // Enable the ESlint flat config support
   "eslint.experimental.useFlatConfig": true,
 
   // Disable the default formatter
@@ -75,5 +75,11 @@
       "source.fixAll.markdownlint": "explicit",
       "source.fixAll.eslint": "never"
     }
-  }
+  },
+
+  "markdown.validate.referenceLinks.enabled": "ignore",
+  "markdown.validate.ignoredLinks": [
+    "/slides/**",
+    "/zh/slides/**"
+  ]
 }

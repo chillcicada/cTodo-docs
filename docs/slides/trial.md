@@ -138,7 +138,7 @@ hideInToc: true
 
 ## Relevant Concepts
 
-- To-Do: Some schedules or non-scheduled tasks, with forward counting, backward counting, or no counting, periodic or non-periodic, can all be treated as to-dos.
+- Todo: Some schedules or non-scheduled tasks, with forward counting, backward counting, or no counting, periodic or non-periodic, can all be treated as Todos.
 - Goal: Goals are not explicitly displayed as to-dos but are shown in the popup and home. In other words, they are long-term schedules.
 - Blocklist: A series of related rules used to block or allow websites, with some built-in rules.
 
