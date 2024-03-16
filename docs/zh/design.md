@@ -86,6 +86,6 @@ cTodo-docs使用[vitepress](https://vitepress.dev)生成文档，并使用[slide
 
 请参阅<https://github.com/chillcicada/ctodo-docs#readme>
 
-### 贡献
+## 贡献
 
 如果您想做出贡献，请确保在此之前阅读[原则](./principle)。

@@ -53,4 +53,12 @@ Please read the [principle](https://ctodo.chillcicada.com/principle#ctodo-docs) 
 
 ## LICENSE
 
-The **cTodo docs** is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) License.
+The **cTodo docs** is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) License, but **EXCLUDING any of the following conditions**:
+
+- You are working / have worked for Informatization Office or Information Technology Center of Tsinghua University.
+- Your project is funded or supported in any way by an affiliate of Tsinghua University or any other institution associated with Tsinghua University, **including any competitive projects**.
+- Your backlink to this project includes / mentions any of the author's(s') privacy information (such as the author's real name, school email, student ID or any other private information).
+
+If any of these criteria is met, any use of code, without **explicit** authorization from the author(s), from this project will be considered as infringement of copyright (and the author's(s') privacy). In addition, if your behavior violates the third criteria, <u>without getting permission</u>, you **must choose to** remove all the relevant privacy information **or** remove the backlink (such as using `[cTodo](link/to/thisProject) Nickname` or `cTodo RealName`).
+
+The word '**use**' may refer to making copies of, modifying, redistributing of the source code or derivatives (such as browser extension) of this project, whether or not for commercial use. However you can still install and run the browser extension released by the author without being constrained by this exception.

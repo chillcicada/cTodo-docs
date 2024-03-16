@@ -7,6 +7,7 @@ export const zh = defineConfig({
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
+      { text: '下载', link: 'https://github.com/chillcicada/cTodo/releases' },
     ],
 
     sidebar: [

@@ -7,6 +7,8 @@ export const en = defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      // Todo: add download certainly link for chrome/edge and firefox
+      { text: 'Download', link: 'https://github.com/chillcicada/cTodo/releases' },
     ],
 
     sidebar: [
@@ -24,7 +26,7 @@ export const en = defineConfig({
 
     footer: {
       message: 'cTodo-docs released under the CC BY-NC-SA 4.0 License',
-      copyright: `Copyreight &copy 2024-${new Date().getFullYear()} <a href="https://github.com/chillcicada"><span>chillcicada</span></a>`,
+      copyright: `Copyright &copy 2024-${new Date().getFullYear()} <a href="https://github.com/chillcicada"><span>chillcicada</span></a>`,
     },
   },
 })

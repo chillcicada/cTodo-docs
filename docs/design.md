@@ -84,6 +84,6 @@ The cTodo-docs uses the [vitepress](https://vitepress.dev) to generate the docs,
 
 Please refer to <https://github.com/chillcicada/ctodo-docs#readme>
 
-### Contribution
+## Contribution
 
 If you want to make a contribution, please ensure that you have read the [principle](./principle) before.

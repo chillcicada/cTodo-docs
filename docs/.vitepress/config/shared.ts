@@ -20,7 +20,7 @@ export const shared = defineConfig({
   themeConfig: {
     logo: { src: '/logo.png' },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/chillcicada/cTodo' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/chillcicada/cTodo-docs' }],
 
     search: {
       provider: 'local',
