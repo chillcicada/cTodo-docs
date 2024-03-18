@@ -1,8 +1,8 @@
-# 设计规范
+# 设计规范 {#design-specification}
 
 > 由 GPT-4 翻译。
 
-## cTodo（cTodo - 客户端）
+## cTodo（cTodo - 客户端） {#ctodo-client}
 
 cTodo - 客户端采用[MIT](https://mit-license.org)许可发布，您可以从[GitHub](https://github.com/chillcicada/ctodo)获取源代码。
 
@@ -70,13 +70,13 @@ cTodo - 客户端采用[MIT](https://mit-license.org)许可发布，您可以从
 
 - `pnpm update`：更新依赖项，或者您可以使用`(npx) taze major -I`来更新依赖项，提示：taze 不是此项目的依赖项，您可以通过 `npm i -g taze` 安装它。
 
-## cTodo - 服务器
+## cTodo - 服务器 {#ctodo-server}
 
 ### 设计
 
 ### 开发
 
-## cTodo - 文档
+## cTodo - 文档 {#ctodo-docs}
 
 cTodo-docs采用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)许可发布。
 
@@ -86,6 +86,6 @@ cTodo-docs使用[vitepress](https://vitepress.dev)生成文档，并使用[slide
 
 请参阅<https://github.com/chillcicada/ctodo-docs#readme>
 
-## 贡献
+## 贡献 {#contribution}
 
 如果您想做出贡献，请确保在此之前阅读[原则](./principle)。

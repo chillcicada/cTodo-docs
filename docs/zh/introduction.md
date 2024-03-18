@@ -1,20 +1,20 @@
-# 简介
+# 简介 {#introduction}
 
 > 由 GPT-4 翻译。
 >
 > 这是对 cTodo 的简要介绍。
 
-## 什么是 cTodo？
+## 什么是 cTodo？ {#what-is-ctodo}
 
 cTodo 是一个帮助用户管理任务和待办事项的网络扩展。
 
-## 为什么选择 cTodo？
+## 为什么选择 cTodo？ {#why-ctodo}
 
 有许多其他的网络扩展可以帮助用户管理任务和待办事项。
 
-## 用法
+## 用法 {#usage}
 
-## 开发
+## 开发 {#development}
 
 > [!IMPORTANT]
 > 有关代码原则，请参阅 [原则](./principle) 页面。
@@ -36,7 +36,7 @@ cTodo 文档使用 [VitePress](https://vitepress.dev) 作为静态站点生成�
 
 有关开发，请参阅根目录中的 [README](https://github.com/chillcicada/cTodo-docs#Usage) 文件。
 
-## 灵感来源
+## 灵感来源 {#inspiration}
 
 cTodo 的灵感来源于以下项目：
 
@@ -45,7 +45,7 @@ cTodo 的灵感来源于以下项目：
 - [tomatodo](http://www.tomatodo.cn)：一个帮助用户管理任务和待办事项的应用程序。
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)：一个浏览器脚本，提供了一个插件 API，帮助用户改善哔哩哔哩的体验。
 
-## 致谢
+## 致谢 {#acknowledgement}
 
 没有以下事物和人员的帮助，cTodo 将不可能存在：
 
@@ -54,7 +54,7 @@ cTodo 的灵感来源于以下项目：
 - [VSCode](https://code.visualstudio.com)：一个重新定义和优化用于构建和调试现代 Web 和云应用程序的代码编辑器。
 - [antfu](https://antfu.me)：他的作品对我有很大帮助。
 
-## 许可证
+## 许可证 {#license}
 
 cTodo 和 cTodo-server 遵循 [MIT 许可证](https://mit-license.org)。
 

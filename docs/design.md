@@ -1,6 +1,6 @@
 # Design specification
 
-## cTodo (cTodo - client)
+## cTodo (cTodo - client) {#ctodo-client}
 
 The cTodo (client) is released under the [MIT](https://mit-license.org) License, you can get the source code from [GitHub](https://github.com/chillcicada/ctodo).
 

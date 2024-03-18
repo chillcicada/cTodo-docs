@@ -4,5 +4,6 @@ export default antfu({
   formatters: true,
   ignores: [
     '**/slides',
+    'pnpm-lock.yaml',
   ],
 })
