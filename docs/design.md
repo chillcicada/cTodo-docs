@@ -68,6 +68,8 @@ Other scripts:
 
 - `pnpm update`: Update the dependencies, or you can use `(npx) taze major -I` to update the dependencies, hint: taze is not a dependency of this project, you can install it via `npm i -g taze`.
 
+### Plugin API
+
 ## cTodo - server
 
 ### Design

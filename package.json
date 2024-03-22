@@ -4,7 +4,7 @@
   "type": "module",
   "version": "0.0.1",
   "private": true,
-  "packageManager": "pnpm@8.15.4",
+  "packageManager": "pnpm@8.15.5",
   "description": "ctodo's documentation",
   "author": "chillcicada <2210227279@qq.com>",
   "license": "MIT",
@@ -28,17 +28,17 @@
     "preinstall": "npx only-allow pnpm"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.8.3",
+    "@antfu/eslint-config": "2.8.3",
     "@slidev/cli": "0.48.0-beta.26",
-    "@slidev/theme-default": "^0.25.0",
-    "eslint": "^8.57.0",
-    "eslint-plugin-format": "^0.1.0",
-    "lint-staged": "^15.2.2",
-    "prettier-plugin-slidev": "^1.0.5",
-    "simple-git-hooks": "^2.11.0",
-    "typescript": "^5.4.2",
+    "@slidev/theme-default": "0.25.0",
+    "eslint": "8.57.0",
+    "eslint-plugin-format": "0.1.0",
+    "lint-staged": "15.2.2",
+    "prettier-plugin-slidev": "1.0.5",
+    "simple-git-hooks": "2.11.0",
+    "typescript": "5.4.2",
     "vitepress": "1.0.0-rc.42",
-    "zhlint": "^0.8.1"
+    "zhlint": "0.8.1"
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged"
