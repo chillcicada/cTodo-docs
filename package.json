@@ -33,7 +33,7 @@
     "@slidev/theme-default": "0.25.0",
     "eslint": "8.57.0",
     "eslint-plugin-format": "0.1.2",
-    "lint-staged": "15.2.2",
+    "lint-staged": "15.2.7",
     "prettier-plugin-slidev": "1.0.5",
     "simple-git-hooks": "2.11.0",
     "typescript": "5.4.2",
