@@ -1,7 +1,8 @@
 {
   "files.autoSave": "onFocusChange",
   // Enable the ESlint flat config support
-  "eslint.experimental.useFlatConfig": true,
+  "eslint.useFlatConfig": true,
+  "editor.formatOnPaste": false,
 
   // Disable the default formatter
   "prettier.enable": false,
