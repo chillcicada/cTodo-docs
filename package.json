@@ -4,7 +4,7 @@
   "type": "module",
   "version": "0.0.1",
   "private": true,
-  "packageManager": "pnpm@8.15.5",
+  "packageManager": "pnpm@8.15.8",
   "description": "ctodo's documentation",
   "author": "chillcicada <2210227279@qq.com>",
   "license": "MIT",
