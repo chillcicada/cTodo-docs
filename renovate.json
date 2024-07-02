@@ -3,8 +3,6 @@
   "extends": [
     "config:recommended"
   ],
-  "schedule": [
-    "every weekend"
-  ],
-  "automerge": true
+  "automerge": true,
+  "automergeType": "branch"
 }
