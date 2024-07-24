@@ -36,7 +36,7 @@
     "lint-staged": "15.2.7",
     "prettier-plugin-slidev": "1.0.5",
     "simple-git-hooks": "2.11.1",
-    "typescript": "5.5.3",
+    "typescript": "5.5.4",
     "vitepress": "1.2.3",
     "zhlint": "0.8.1"
   },
