@@ -37,7 +37,7 @@
     "prettier-plugin-slidev": "1.0.5",
     "simple-git-hooks": "2.11.1",
     "typescript": "5.5.3",
-    "vitepress": "1.2.3",
+    "vitepress": "1.3.2",
     "zhlint": "0.8.1"
   },
   "simple-git-hooks": {
